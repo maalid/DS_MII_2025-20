@@ -1,0 +1,22 @@
+Consideraciones para el trabajo evaluado
+
+1. Trabajo grupal, un grupo por sede (si alguien quiere hacer grupos más atomizados, no hay problema).
+2. Elegir un dataset de un problema de ustedes, relacionado (ojalá) con sus trabajos para que este jercicio les aporte valor.
+3. Desarrollar el problema, abordandolo mediante la aplicación de uno o más de los algoritmos de Aprendizaje de Máquina que veremos en clase.
+4. El entregable debe ser (solamente) alguno de estos:
+    - Jupyter notebook
+    - Script plano *.py
+    - Rmarkdown
+    - Script plano *.R
+5. Como adjunto del entregable debe venir el set de datos (ya que sin éstos, no podré ejecutar sus scripts).
+6. En el entregable debe venir (como mínimo suficiente):
+    - Planteamiento del problema
+    - Explicación de los datos
+    - Hipótesis a verificar
+    - Desarrollo del problema (pipeline con el código de carga de datos, limpieza, transformación, entrenamiento/ajuste, selección de mejores hiperparámetros, modelo final, métricas, etc.).
+      Ojo que no se limita a los pasos que acabo de especificar (pueden haber más), y puede que en casos particulares no todos los que nombré sean necesarios. Lo que si es importante es que su flujo sea coherente.
+    - Análisis y conclusiones (Story teeling).
+7. El 50% de la nota corresponde a la ejecución sin errores del entregable (códigos python o R).
+8. El 25% corresponde al plantemiento, hipótesis y desarrollo.
+9. El restante 25% corresponde a los análisis y conclusiones.
+10. Pueden resolver en Python o R o cualquier lenguaje de programación (deben adjuntar adicionalmente un 'manual de ejecución' si el lenguaje de programación no es R/Python).
