@@ -4,6 +4,13 @@ Compromisos:
 - gestionar fecha de entrega para el domingo 28 de septiembre
 - compartir reglas del juego para trabajo/evaluación
 Tomar en cuenta
-1)-Abordar un problema de nuestro trabajo - 2) Abordarlo con el método Kaminz -  3) Conclusiones y apreciaciones del trabajo - 4) Caracterización de los Cluster - 5) Enviar con programa para Ejecutar docente " Júpiter notebook" - 6) Entregar una Story teeling del problema a resolver o evaluar - 7) Cada grupo se autogestiona - 8) Que contenga método científico  (planteamiento - interpretación - hipótesis - resolverlo - como abordar el problema - cual es la estrategia para resolver el Caso)….
+1) Abordar un problema de nuestro trabajo
+2) Abordarlo con el método Kaminz
+3) Conclusiones y apreciaciones del trabajo
+4) Caracterización de los Cluster
+5) Enviar con programa para Ejecutar docente " Júpiter notebook"
+6) Entregar una Story teeling del problema a resolver o evaluar
+7) Cada grupo se autogestiona
+8) Que contenga método científico  (planteamiento - interpretación - hipótesis - resolverlo - como abordar el problema - cual es la estrategia para resolver el Caso)
 
 - Pueden resolver en Python o R o cualquier lp (solo deben adjuntar manual de ejecución si el lp no es R/Python)
