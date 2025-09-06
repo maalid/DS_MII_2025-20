@@ -20,3 +20,6 @@ Consideraciones para el trabajo evaluado
 8. El 25% corresponde al plantemiento, hipótesis y desarrollo.
 9. El restante 25% corresponde a los análisis y conclusiones.
 10. Pueden resolver en Python o R o cualquier lenguaje de programación (deben adjuntar adicionalmente un 'manual de ejecución' si el lenguaje de programación no es R/Python).
+11. Enviar el entregable (uno por grupo) al correo maalidvacc@outlook.com (se recomienda copiar en el correo al resto de integrantes del grupo).
+    Subjet del correo: MII_2025_20 - Trabajo Final
+    nobre del archivo entrgable: MII_2025_20_Trabajo_Final_Nombre_autor
